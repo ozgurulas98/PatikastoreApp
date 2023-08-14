@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
   },
   headerTitle: {
     textAlign: "left",
-    fontSize: 40,
+    fontSize: 38,
     color: "#800080",
     fontWeight: "bold",
     paddingLeft: 10,
